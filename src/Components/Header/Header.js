@@ -196,7 +196,7 @@ const NavMenu = styled.div`
     }
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 915px) {
     display: none;
   }
 `;
